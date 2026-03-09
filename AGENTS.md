@@ -66,8 +66,8 @@
 
 ### コミット主体
 - コミット author は **必ず以下を使用してください**  
-  - `AUTHOR_NAME:（ここに固定値を記載）`
-  - `AUTHOR_EMAIL:（ここに固定値を記載）`
+  - `AUTHOR_NAME:kooooyooooo`
+  - `AUTHOR_EMAIL:table.leaf.hand@gmail.com`
 - 上記以外の author / email を使用してコミットしないでください。
 - bot 名義や未許可の別アカウント名義で勝手にコミットしないでください。
 - Vercel 連携を想定しているため、commit author email は必ず GitHub アカウントに紐づくものを使用してください。
